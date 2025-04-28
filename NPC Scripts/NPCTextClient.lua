@@ -1,4 +1,5 @@
 -- Put this in a LocalScript and disable it
+-- Put inside NPCText GUI
 
 local UserInputService = game:GetService("UserInputService")
 local Debris = game:GetService("Debris")
