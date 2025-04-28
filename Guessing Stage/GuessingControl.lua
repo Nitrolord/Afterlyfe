@@ -1,3 +1,5 @@
+-- Put inside each Guesses model
+
 -- Creates a new Guessing object and disarms the safe guess
 
 local Guessing = require(script.Guessing)
