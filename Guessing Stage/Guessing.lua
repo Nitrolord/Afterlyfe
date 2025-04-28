@@ -1,4 +1,5 @@
 -- Put this in a ModuleScript
+-- Put inside each Guesses model's GuessingControl script
 
 -- Sets up a Guessing object (OOP/Class)
 
