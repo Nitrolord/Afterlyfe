@@ -1,3 +1,5 @@
+-- Put inside each red neon part
+
 -- Kills player who touches the part it is put in
 
 script.Parent.Touched:connect(function(hit)
