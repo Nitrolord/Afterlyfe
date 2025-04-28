@@ -1,5 +1,6 @@
+-- Put inside the part you want to float (should be called "Middle" on the angels
+
 -- Makes NPC float up and down slightly
--- Put inside the part you want to float
 
 function a() 
 	for i = 1, 25 do 
