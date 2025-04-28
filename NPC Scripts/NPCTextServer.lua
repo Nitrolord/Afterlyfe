@@ -1,3 +1,4 @@
+-- Put inside NPC model
 -- Handles main functions of NPC dialog GUI - displays it for player who selected prompt when prompt is selected, hides it when exit is selected
 
 local character = script.Parent
