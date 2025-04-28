@@ -1,4 +1,5 @@
 -- Put this in a ModuleScript
+-- Put inside NPCTextClient of the end's NPC
 
 -- kicks player
 function _G.kick2()
