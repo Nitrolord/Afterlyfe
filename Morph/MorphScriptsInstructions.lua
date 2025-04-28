@@ -1,0 +1,1 @@
+-- Put all of these scripts inside of the "button" part of your morph (should just be called Morph in the Afterlyfe game)
